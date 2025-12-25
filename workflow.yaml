@@ -1,0 +1,7 @@
+agents:
+  - name: EchoAgent
+    config:
+      prefix: "[First]"
+  - name: EchoAgent
+    config:
+      prefix: "[Second]"
